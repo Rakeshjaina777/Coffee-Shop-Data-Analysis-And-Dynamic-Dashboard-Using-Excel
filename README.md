@@ -1,10 +1,14 @@
-# ☕ Coffee Shop Sales Analysis & Dynamic Dashboard Using Excel
+# ☕ Coffee Shop  Data Analysis & Dynamic Dashboard Using Excel
 
 ## 📊 Project Overview
 
 This project aims to analyze retail sales data to gain actionable insights and improve the performance of the Coffee Shop. An interactive Excel dashboard visualizes key metrics and trends for better decision-making.
 
 ---
+
+## 📷 Dashboard Preview
+
+![image](https://github.com/user-attachments/assets/47836e6c-a035-4783-813e-b87a5beb8058)
 
 ## 🎯 Key Objectives
 
@@ -57,9 +61,7 @@ The dashboard is dynamic and will automatically update based on any data changes
 
 ---
 
-## 📷 Dashboard Preview
 
-![image](https://github.com/user-attachments/assets/47836e6c-a035-4783-813e-b87a5beb8058)
 
 
 ---
