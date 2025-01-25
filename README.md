@@ -1,4 +1,4 @@
-# ☕ Coffee Shop  Data Analysis & Dynamic Dashboard Using Excel
+# ☕ Coffee Shop  Data Analysis & Dynamic Dashboard Using SQl
 
 ## 📊 Project Overview
 
